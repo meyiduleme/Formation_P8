@@ -7,7 +7,7 @@ https://www.kaggle.com/c/tpu-getting-started . The aim of this beginners competi
 
 The dataset used is a set of 16 465 images representing around 100 different flower species.
 
-Link to the notebook and soumission in the Kaggle Competition: https://www.kaggle.com/brumey/fine-grained-flower-classification-with-tpu
+Link to the notebook and soumission in the Kaggle Competition: https://www.kaggle.com/brumey/fine-grained-flower-classification-with-tpu?scriptVersionId=78298916
 
 In order to use this notebook:
 - Log in on Kaggle.com
